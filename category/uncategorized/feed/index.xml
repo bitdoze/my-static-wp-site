@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 20 Oct 2023 09:51:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Oct 2023 11:02:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,32 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
+		<title>My Test Post</title>
+		<link>/my-test-post/</link>
+					<comments>/my-test-post/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2023 11:02:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1359</guid>
+
+					<description><![CDATA[some content]]></description>
+										<content:encoded><![CDATA[
+<p>some content</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Go gere</a></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/my-test-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>/hello-world/</link>
 					<comments>/hello-world/#respond</comments>
